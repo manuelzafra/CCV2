@@ -12,7 +12,7 @@ const Header: React.FC = () => {
         </a>
         <nav className="mx-6 flex items-center space-x-4 lg:space-x-6 flex-grow justify-center">
           <a className="text-sm font-medium transition-colors hover:text-primary" href="#how-it-works">
-            How It Works
+            How It Works HELLO
           </a>
           <a className="text-sm font-medium transition-colors hover:text-primary" href="#paste-data">
             Paste Data
